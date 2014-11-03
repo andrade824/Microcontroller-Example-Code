@@ -14,4 +14,4 @@ Development boards used:
 
 For more AVR code, check the Wristboard folder in my Fear-Tracker repository.
 
-For more Tiva C ARM code, check the Processing Hub folder in my Fear-Tracker repository.
+For more Tiva C ARM code, check the Processing Hub folder in my Fear-Tracker repository or the Pacman-Game-On-LED-Matrix repository.
