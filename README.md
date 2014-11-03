@@ -11,3 +11,7 @@ Development boards used:
 <li>ARM: <a href="http://www.ti.com/tool/ek-tm4c123gxl">Texas Instrument's Tiva C Launchpad</a></li>
 <li>PIC32: <a href="https://www.sparkfun.com/products/9713">USB 32-Bit Whacker by Sparkfun</a></li>
 </ul>
+
+For more AVR code, check the Wristboard folder in my Fear-Tracker repository.
+
+For more Tiva C ARM code, check the Processing Hub folder in my Fear-Tracker repository.
